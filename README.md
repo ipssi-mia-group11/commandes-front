@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Setup
+
+To copy the `.env` file to `.env.local` and replace variables, you can follow these steps:
+
+1. In the project directory, create a new file called `.env.local` if it doesn't exist already.
+
+2. Open the `.env` file and copy its contents.
+
+3. Paste the copied contents into the `.env.local` file.
+
+4. In the `.env.local` file, replace the values of the variables with your desired values.
+
+5. Save the `.env.local` file.
+
+By following these steps, you'll have effectively copied the `.env` file to `.env.local` and replaced the variables inside it with your custom values. The `.env.local` file will now be used for configuration in your React app.
+
 ## Available Scripts
 
 In the project directory, you can run:
